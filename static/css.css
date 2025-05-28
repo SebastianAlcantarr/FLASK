@@ -1,7 +1,7 @@
 body {
-            background: linear-gradient(to left, rgb(6, 59, 148), rgba(37, 4, 4, 0.83));
+            background: #383838;
             margin: 0;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Poner varios tipos de fuente por si no se encuentra en el dispotivio del usuario*/
             color: papayawhip;
         }
 

@@ -45,8 +45,11 @@ data={
             "img": "https://th.bing.com/th/id/OIP.W8yCC3teVPrOuhJOJnRjdwHaEK?rs=1&pid=ImgDetMain",
             "Name": "Lamborghini Urus",
             "Price": '24.000.000 $',
-        },
-
+        }, {
+            "img":"https://th.bing.com/th/id/R.2c4041d9df9f17aaa0bec871c9f85108?rik=8umEt1Fu3PT%2bNQ&pid=ImgRaw&r=0",
+            "Name" : 'Honda Civic',
+            "Price":'10000$'
+        }
     ]
 }
 
@@ -64,6 +67,7 @@ def pedir():
             "Name" : 'Pagani model Huayra',
             "Price":'10000$'
         }
+
 
 @app.route("/saludar/<nombre>",methods=['GET'])
 
