@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+       <meta charset="UTF-8">
+    <title>TIENDA</title>
+
+ <link rel="stylesheet" href="../static/css.css">
+    <link rel="icon" href="/static/pngwing.com.png" type="image/x-icon" >
+</head>
+
+<body>
+    <h1>Página de Carros Exclusivos
+    </h1>
+
+
+    <div class="container">
+        <button onclick="enviarCompra()">Comprar el Carro</button>
+        <button>Referencias</button>
+        <button>Acerca de</button>
+        <button>De donde son nuestros carros</button>
+
+    </div>
+
+    <div id="car-list">
+        {% for car in carros %}
+            <div class="car">
+                <img src="{{ car.img }}" alt="Car Image">
+                <h3>{{ car.Name }}</h3>
+                <p>Precio: {{ car.Price }}</p>
+                <button onclick="enviarCompra()">Comprar el Carro</button>
+            </div>
+        {% endfor %}
+    </div>
+
+    <p>--Información de la Página--<br>
+        *Página Web Hecha por Sebastian Alcantar Vicencio<br>
+        *Hecha con HTML, CSS y Python con el framework(Flask)<br>
+        *Aprendiendo a Programar en Flask con Python<br>
+        *Poniendo mamadas para ver el css<br>
+
+    </p>
+    <script>
+        function enviarCompra() {
+            window.location.replace("confirmacion");
+        }
+    </script>
+</body>
+</html>
+

@@ -1,0 +1,94 @@
+ body {
+            background: linear-gradient(to right, royalblue, #ff0000);
+            margin: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: white;
+        }
+
+        h1 {
+            text-align: center;
+            padding: 30px 0;
+            font-size: 40px;
+            margin: 0;
+            background-color: rgba(0, 0, 0, 0.2);
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+        }
+
+         h2 {
+            text-align: center;
+            padding: 30px 0;
+            font-size: 15px;
+            margin: 0;
+            background-color: rgba(0, 0, 0, 0.2);
+             box-shadow: 0 4px 200px rgba(0, 0, 0, 0.3);
+
+        }
+
+         p{
+             text-align: center;
+            padding: 30px 0;
+            font-size: 40px;
+            margin: 0;
+            background-color: rgba(0, 0, 0, 0.2);
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+         }
+
+        #car-list {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            padding: 30px;
+        }
+
+        .car {
+            background-color: rgba(255, 255, 255, 0.1);
+            border-radius: 15px;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+            padding: 20px;
+            margin: 15px;
+            width: 280px;
+            text-align: center;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .car:hover {
+            transform: scale(1.15);
+            box-shadow: 0 12px 25px rgba(0, 0, 0, 0.5);
+        }
+
+        .car img {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 10px;
+        }
+
+        .car h3, .car p {
+            margin: 10px 0;
+            font-size: 18px;
+        }
+
+        .car p {
+            font-weight: bold;
+        }
+
+        .car button {
+            margin-top: 10px;
+            padding: 10px 20px;
+            font-size: 16px;
+            border: none;
+            border-radius: 8px;
+            background-color: #f1c40f;
+            color: #333;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .car button:hover {
+            background-color: #d4ac0d;
+        }
+
+        .img{
+            object-fit: cover;
+            border-radius: 100px;
+        }
