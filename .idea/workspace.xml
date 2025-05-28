@@ -8,11 +8,8 @@
       <change beforePath="$PROJECT_DIR$/../../CURSOS - copia/Proyecto/Normas.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../CURSOS - copia/Proyecto/Patentes.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../CURSOS - copia/Proyecto/Video_YT.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CURSOS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CURSOS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,7 +183,7 @@
       <workItem from="1748364576349" duration="811000" />
       <workItem from="1748365404865" duration="30741000" />
       <workItem from="1748447684848" duration="4249000" />
-      <workItem from="1748460400020" duration="831000" />
+      <workItem from="1748460400020" duration="1599000" />
     </task>
     <servers />
   </component>
@@ -212,7 +209,7 @@
     <SUITE FILE_PATH="coverage/CURSOS$CURSOR.coverage" NAME="CURSOR Coverage Results" MODIFIED="1743611041987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Metodos" />
     <SUITE FILE_PATH="coverage/CURSOS$main.coverage" NAME="main Coverage Results" MODIFIED="1748365233521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CURSOS$Manager.coverage" NAME="Manager Coverage Results" MODIFIED="1743811511095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Metodos" />
-    <SUITE FILE_PATH="coverage/CURSOS$CURSOS.coverage" NAME="CURSOS Coverage Results" MODIFIED="1748460453740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/CURSOS$CURSOS.coverage" NAME="CURSOS Coverage Results" MODIFIED="1748461281096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/CURSOS$index.coverage" NAME="index Coverage Results" MODIFIED="1743815123764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Metodos" />
   </component>
 </project>

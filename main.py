@@ -48,7 +48,7 @@ data={
         }, {
             "img":"https://th.bing.com/th/id/R.2c4041d9df9f17aaa0bec871c9f85108?rik=8umEt1Fu3PT%2bNQ&pid=ImgRaw&r=0",
             "Name" : 'Honda Civic',
-            "Price":'10000$'
+            "Price":'1.000.000$'
         }
     ]
 }
